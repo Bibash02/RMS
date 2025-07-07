@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'rms_eve',
+        'NAME': 'baisakh',
         'USER': 'postgres',
         'PASSWORD': '1223',
         'HOST': 'localhost',
